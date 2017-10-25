@@ -1,0 +1,649 @@
+.company_technology .techno_company {
+padding-top:65px !important;
+}
+.cms_banner .ultb3-title {
+padding-left:25px;
+}
+.cms_banner .ultb3-desc {
+padding-left:27px;
+}
+section.l-section.wpb_row.height_small.width_full.with_img.inexture_news {
+padding: 0 40px !important;
+}
+.carousel-slider__item img {
+border: 2px solid #fff;
+}
+.contact_sidebar_mail .mdfi_social_share {
+font-size: 30px;
+color: #e1e4e5;
+vertical-align: middle;
+}
+@media (min-width: 901px) {
+.l-header.sticky .ush_image_1 {
+height: 45px !important;
+}
+}
+.wplc_offline {
+font-size: 14px !important;
+}
+#wp-live-chat-1 {
+padding: 0px 10px 6px 10px;
+}
+.home_counter .w-counter-title {
+color: white !important;
+}
+.aws_button {
+background-color: #4573d1;
+border: none;
+color: white;
+padding: 10px 22px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 25px 2px;
+cursor: pointer;
+}
+.web_development_row .web_development_row1 .one-quarter {
+width: 25%;
+}
+.web_development_row .web_development_row2 {
+width: 80%;
+margin: 0 auto;
+}
+.web_development_row .g-cols.offset_medium > div {
+margin-left: 0;
+}
+.web_development_row .web_development_row2 .one-third {
+width: 33.33%;
+padding-left: 0 !important;
+padding-right: 0 !important;
+}
+.flip_link a {
+margin-top: 0px !important;
+}
+.contact_address {
+border-bottom: 1px solid #eee !important;
+border-right: 1px solid #eee !important;
+}
+.contactpage_phone {
+margin-top: 18px;
+}
+.hire_include.w-iconbox.style_default.size_huge .w-iconbox-icon img {
+max-width: 220px !important;
+}
+.internet_marketing_element {
+margin-left: 170px;
+}
+.testimonial_outer_wrap {
+margin: 0 auto !important;
+}
+.contact_sidebar_mail .mdfi_content_mail {
+font-size: 30px;
+color: #e1e4e5;
+vertical-align: middle;
+}
+.contact_sidebar_mail a {
+font-size: 18px;
+color: #25282b;
+}
+.banner_btn .ultb3-btn {
+background: rgba(254, 97, 22, 0.7);
+}
+.banner_btn a.ultb3-btn:hover {
+background: rgba(40, 93, 202, 0.7);
+}
+a.w-btn.portfolio_btn:hover {
+color: #fff !important;
+background: #275cc9 !important;
+}
+.portfolio_load_more_button .g-loadmore {
+max-width: 180px;
+margin: 0 auto 15px auto;
+}
+.portfolio_load_more_button .g-loadmore .g-loadmore-btn {
+padding: 10px 30px!important;
+background-color: #25282b;
+color: #c2c4c5;
+}
+.web_second_banner img {
+min-width: 100%;
+}
+.web_develop_banner img {
+min-width: 100%;
+}
+.ui_main_banner img {
+min-width: 100%;
+}
+.ionic_banner img {
+min-width: 100%;
+}
+.bigdata_banner img {
+min-width: 100%;
+}
+.aws_banner img {
+min-width: 100%;
+}
+.iot_banner img {
+min-width: 100%;
+}
+.portfolio_banner img {
+min-width: 100%;
+}
+.mobile_app_banner img {
+min-width: 100%;
+}
+.internet_marketing_banner img {
+min-width: 100%;
+}
+.cms_banner img {
+min-width: 100%;
+}
+.baner_solutions img {
+min-width: 100%;
+}
+.ifb-front {
+display: table !important;
+width: 100%;
+height: 100%;
+padding: 15px !important;
+}
+.ifb-front > div {
+display: table-cell;
+vertical-align: middle;
+border-radius: 15px;
+border: 10px solid #27bace;
+}
+.web_flipflop .ifb-front > div {
+border: 10px solid #5334ac;
+}
+.cms_flipflop .ifb-front > div {
+border: 10px solid #2d8af0;
+}
+.ui_flipflop .ifb-front > div {
+border: 10px solid #fe6116;
+}
+.trending_flipflop .ifb-front > div {
+border: 10px solid #a100a8;
+}
+.resource_flipflop .ifb-front > div {
+border: 10px solid #c9d83d;
+}
+.ifb-back .ifb-flip-box-section-content p {
+color: #ffffff !important;
+}
+{
+padding-top: 20px;
+}
+.contact_icon_color {
+color: #4f5459 !important;
+}
+.contact_mail i {
+font-size: 28px;
+vertical-align: middle;
+padding-right: 15px;
+}
+.contact_mail a {
+vertical-align: middle;
+color: #000;
+cursor: pointer
+}
+.nf-field-element input::-webkit-input-placeholder {
+/ Chrome/Opera/Safari / color: white !important;
+opacity: 1;
+}
+.nf-field-element input::-moz-placeholder {
+/ Firefox 19+ / color: white !important;
+opacity: 1;
+}
+.nf-field-element input:-ms-input-placeholder {
+/ IE 10+ / color: white !important;
+opacity: 1;
+}
+.nf-field-element input:-moz-placeholder {
+/ Firefox 18- / color: white !important;
+opacity: 1;
+}
+.nf-field-element textarea::-webkit-input-placeholder {
+/ Chrome/Opera/Safari / color: white !important;
+opacity: 1;
+}
+.nf-field-element textarea::-moz-placeholder {
+/ Firefox 19+ / color: white !important;
+opacity: 1;
+}
+.nf-field-element textarea:-ms-input-placeholder {
+/ IE 10+ / color: white !important;
+opacity: 1;
+}
+.nf-field-element textarea:-moz-placeholder {
+/ Firefox 18- / color: white !important;
+opacity: 1;
+}
+.nf-field-element select option {
+color: #111c20;
+}
+.nf-error .ninja-forms-field {
+border: none !important;
+}
+.nf-error .ninja-forms-field {
+border-bottom: 1px solid #fff !important;
+}
+.nf-field-elementinput::-webkit-input-placeholder {
+color: #fff !important;
+}
+.nf-field-element input::-moz-placeholder { color: #fff;
+}
+.nf-field-container.listcheckbox-container.label-above.select_requirment {
+padding-top: 25px;
+}
+.nf-field-element ul {
+display: inline-block;
+float: left;
+}
+.nf-field-element ul li:nth-child(odd) {
+float: left;
+margin-right: 10px;
+width: 50%;
+}
+.nf-field-element li:nth-child(even) {
+float: right;
+width: 50%;
+}
+.w-iconbox.icon_joomla {
+padding-left: 113px;
+}
+.Flip_flop_data .ifb-face.ifb-front { background: none !important;
+-webkit-box-shadow: 1px -1px 21px 0px rgba(184, 182, 184, 1);
+-moz-box-shadow: 1px -1px 21px 0px rgba(184, 182, 184, 1);
+box-shadow: 1px -1px 21px 0px rgba(184, 182, 184, 1);
+border-radius: 15px;
+}
+.ui_flipflop .ifb-back {
+background-image: url(//inexture.com/../wp-content/uploads/2017/02/ui_kj2.jpg) !important;
+background-size: cover !important;
+}
+.mobile_flipflop .ifb-back {
+background-image: url(//inexture.com/../wp-content/uploads/2014/10/MobileDevelopment_3.jpg) !important;
+background-size: cover !important;
+}
+.web_flipflop .ifb-back {
+background-image: url(//inexture.com/../wp-content/uploads/2017/01/Web-design-development-services-india.jpg) !important;
+background-size: cover !important;
+}
+.resource_flipflop .ifb-back {
+background-image: url(//inexture.com/../wp-content/uploads/2014/10/hire_resources_1.jpg) !important;
+background-size: cover !important;
+}
+.trending_flipflop .ifb-back {
+background-image: url(//inexture.com/../wp-content/uploads/2014/10/trending_technology.jpg) !important;
+background-size: cover !important;
+}
+.cms_flipflop .ifb-back {
+background-image: url(//inexture.com/../wp-content/uploads/2017/02/Main_banner.jpg) !important;
+background-size: cover !important;
+}
+.ifb-flip-box-section {
+height: 100%;
+display: table-cell;
+text-align: center;
+vertical-align: middle;
+}
+.ifb-face.ifb-back,
+.ifb-face.ifb-front {
+display: table !important;
+text-align: center !important;
+}
+.l-subfooter-h.i-cf .w-menu {
+font-size: 14px !important;
+}
+.vc_toggle_active {
+padding: 5px;
+}
+i.vc_toggle_icon {
+right: 10px;
+top: 15px;
+position: absolute;
+}
+.vc_toggle.vc_toggle_arrow.vc_toggle_color_default.vc_toggle_size_md {
+border-radius: 5px;
+}
+.vc_toggle_title {
+padding: 5px !important;
+}
+.wpb_text_column.company_column {
+border-left: 10px solid #27488e;
+padding: 10px 10px 10px 25px;
+background-color: rgba(231, 235, 243, 0.36);
+}
+.home_baner .ultb3-btn {
+background-color: #636160;
+}
+.contact_us .ultb3-btn {
+background-color: #636160;
+}
+.ultb3-box.ult-adjust-bottom-margin.home_baner .ultb3-desc.ult-responsive {
+padding-bottom: 24px;
+}
+.field-wrap.listselect-wrap.list-select-wrap {
+padding-top: 20px;
+}
+.field-wrap.firstname-wrap .ninja-forms-req-symbol {
+display: none !important;
+}
+.nf-field-label .ninja-forms-req-symbol {
+display: none !important;
+}
+.field-wrap.phone-wrap .ninja-forms-req-symbol {
+display: none !important;
+}
+.field-wrap.listselect-wrap.list-select-wrap .ninja-forms-req-symbol {
+display: none !important;
+}
+.field-wrap.submit-wrap {
+padding: 15px !important;
+}
+.field-wrap.submit-wrap .ninja-forms-field.nf-element {
+background-color: rgba(254, 97, 22, 0.6) !important;
+padding: 8px !important;
+border-radius: 5px;
+border: 1px solid;
+}
+.field-wrap.textbox-wrap .ninja-forms-req-symbol {
+display: none !important;
+}
+.field-wrap.email-wrap .ninja-forms-req-symbol {
+display: none !important;
+}
+.field-wrap.textarea-wrap .ninja-forms-req-symbol {
+display: none !important;
+}
+.nf-before-form-content .nf-form-fields-required {
+display: none !important;
+}
+.wpb_text_column.drupal_banner {
+border-left: 10px solid #27488e;
+padding: 10px 10px 10px 30px;
+background-color: rgba(231, 235, 243, 0.36);
+}
+.wpb_text_column.welcome_banner {
+border-left: 10px solid #27488e;
+padding: 10px 10px 10px 30px;
+background-color: rgba(102, 102, 102, 0.27);
+}
+.contact_us .ultb3-box {
+background: rgba(80, 72, 91, 0.2);
+}
+.mobile_app_devdelopment_banner {
+background-size: 210%;
+background-repeat: no-repeat;
+background-position-x: 29%;
+}
+.ultb3-box.contact_us_mobile_app_development_text {
+margin-top: 175px;
+margin-bottom: 0 !important;
+background: rgba(255, 255, 255, 0.71);
+}
+.ush_menu_1.type_desktop .w-nav-list.level_1 > .menu-item > a,
+.ush_menu_1.type_desktop [class*="columns"] .menu-item-has-children .w-nav-anchor.level_2 {
+font-size: 14px !important;
+} .whitecontent .w-iconbox-title {
+color: #ffffff;
+}
+.wpcf7-form {
+border-radius: 15px;
+padding: 15px;
+}
+.wpcf7 {
+background-color: #F0F0F0;
+}
+#ultib3-11419586c944519ae5 img.ultb3-img {
+width: 100% !important
+}
+.wpcf7-form-control.wpcf7-submit {
+background: #4f5459;
+}
+.btn-btn-primary {
+background-color: white;
+}
+.btn-btn-a {
+color: black;
+}
+.with_indents .size_1x1 {
+padding: 20px !important;
+}
+.Flip_flop_data .flip-box-wrap {
+width: 100%;
+margin-right: 30px;
+float: left;
+}
+.Flip_flop_data .flip-box-wrap:nth-child(3),
+.Flip_flop_data .flip-box-wrap:nth-child(6) {
+margin-right: 0px;
+}
+@media (max-width: 767px) {
+.internet_marketing_element {
+margin-left: 0px !important;
+padding-left: 82px;
+}
+.drupal_image img {
+display: block !important;
+margin: 0 auto !important;
+}
+.mobile_maintain img {
+display: block !important;
+margin: 0 auto !important;
+}
+.mobile_marketing img {
+display: block !important;
+margin: 0 auto !important;
+}
+.Flip_flop_data .flip-box-wrap {
+width: 100%;
+margin-right: 0;
+}
+.Flip_flop_data .flip-box-wrap:nth-child(3) {
+margin-right: 15px !important;
+}
+.Flip_flop_data .flip-box-wrap:nth-child(2),
+.Flip_flop_data .flip-box-wrap:nth-child(4),
+.Flip_flop_data .flip-box-wrap:nth-child(6) {
+margin-right: 0px;
+}
+.flip-box-wrap .flip-box .ifb-face h3 {
+word-break: break-all;
+font-size: 18px;
+line-height: 20px;
+}
+.company_technology .w-iconbox.iconpos_left .w-iconbox-icon {
+float: none;
+}
+.industry_serve .one-sixth {
+width: 50% !important;
+}
+.w-iconbox.icon_joomla {
+padding-left: 0px;
+}
+.w-iconbox.no_text.size_huge {
+max-width: 100%;
+}
+.company_technology .one-quarter {
+padding-top: 0px !important;
+margin-bottom: 20px;
+}
+.company_technology .g-cols {
+margin-bottom: 20px;
+}
+}
+@media (max-width: 360px) {
+.w-iconbox.size_medium .w-iconbox-title {
+font-size: 20px;
+}
+.l-subfooter.at_top .one-quarter {
+text-align: center !important;
+}
+}
+@media (max-width: 767px) {
+canvas.vc_round-chart-canvas {
+height: 150px !important;
+width: 150px !important;
+}
+.round_chart .wpb_wrapper {
+margin: 0 auto !important;
+width: 40% !important;
+}
+}
+@media (max-width: 480px) {
+canvas.vc_round-chart-canvas {
+height: 120px !important;
+width: 120px !important;
+}
+.l-subfooter.at_top .one-quarter {
+text-align: center !important;
+}
+}
+@media(min-width:768px) and (max-width:1199px) {
+.flip-box-wrap .flip-box .ifb-face h3 {
+font-size: 16px !important;
+}
+.flip-box-wrap .flip-box .ifb-back {
+padding: 30px 10px 10px 10px !important;
+}
+}
+.carousel-slider__caption {
+background: #fff;
+margin: 0;
+}
+.carousel-slider__caption p {
+margin: 0 !important;
+font-weight: bold !important;
+font-size: 18px !important;
+line-height: normal !important;
+padding: 10px 0;
+}
+.cst_row .mdc-layout-grid {
+display: block !important;
+width: 100%;
+font-size: 0;
+}
+.cst_row .col-sm-6,
+.cst_row .col-xs-12 {
+width: 100%;
+display: inline-block;
+padding: 0 15px;
+}
+@media(min-width:768px) {
+.cst_row .col-sm-6 {
+width: 50%;
+display: inline-block;
+padding: 0 15px;
+vertical-align:top;
+}
+} .contact_form_cst .wpcf7 {
+background-color: rgba(255, 0, 0, 0);
+}
+.contact_form_cst .wpcf7-form {
+border: 2px solid #697277;
+border-radius: 5px;
+background: #fff;
+}
+.cst_row .col-xs-12.text-area textarea {
+border-top: none !important;
+border-left: none !important;
+border-right: none !important;
+border-radius: initial !important;
+}
+.cst_row .col-xs-12.text-area .mdc-textfield--focused textarea {
+border-top: none !important;
+border-left: none !important;
+border-right: none !important;
+border-radius: initial !important;
+border-bottom-width: 2px !important;
+}
+.contact_form_cst .wpcf7-not-valid-tip {
+position: absolute;
+color: #ff7330;
+}
+.contact_form_cst .wpcf7-response-output.wpcf7-display-none.wpcf7-validation-errors {
+color: #ff7330;
+background: none;
+}
+.contact_form_cst input.wpcf7-form-control {
+height: 32px;
+}
+div#ssb-container {
+transform: rotate(90deg);
+left: -30px;
+border-radius: 5px 5px 0 0;
+overflow: hidden;
+top: 50%;
+font-weight: bold;
+}
+div#ssb-container a {
+padding: 0 10px !important;
+}
+.request_quote {
+background: #285dca;
+}
+.request_quote:hover {
+background: #fff;
+}
+.request_quote span.w-nav-title {
+color: #fff;
+}
+.request_quote:hover span.w-nav-title {
+color: #285dca;
+}
+.contact_form_cst .wpcf7-form {
+border: none;
+border-radius: 5px;
+background: #42599e;
+box-shadow: -1px 2px 9px #000;
+}
+.contact_form_cst #cf7md-form .mdc-textfield--upgraded:not(.mdc-textfield--fullwidth) .mdc-textfield__label {
+color: #fff;
+}
+.contact_form_cst #cf7md-form .cf7md-item select,
+#cf7md-form .cf7md-item input,
+#cf7md-form .cf7md-item textarea,
+#cf7md-form .mdc-textfield--multiline .mdc-textfield__input {
+color: #fff !important;
+border-bottom: 1px solid #fff !important;
+}
+.contact_form_cst #cf7md-form .mdc-textfield--upgraded input {
+outline: none;
+}
+.contact_form_cst button {
+background: #fff !important;
+color: #42599e !important;
+transition: all 0.5s !important;
+}
+.contact_form_cst button:hover {
+color: #ff6217 !important;
+}
+.contact_form_cst #cf7md-form .mdc-textfield--upgraded:not(.mdc-textfield--fullwidth):not(.mdc-textfield--multiline)::after {
+border-bottom: 1px solid #fff !important;
+}
+.contact_form_cst #cf7md-form .mdc-textfield--upgraded:not(.mdc-textfield--fullwidth) {
+border-bottom: 1px solid #fff !important;
+}
+.contact_form_cst #cf7md-form .wpcf7-not-valid-tip {
+color:#ff7330;
+}
+.quict_contact {
+margin-top: 20px;
+}
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+-webkit-appearance: none;
+-moz-appearance: none;
+appearance: none;
+margin: 0;
+}
+.pum-open div#ssb-container {
+left: -40px;
+border-radius: 5px 5px 0 0 !important;
+}
+.cloud_solutions .ultb3-info{
+padding-left: 65px;
+}
